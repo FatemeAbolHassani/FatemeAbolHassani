@@ -71,5 +71,10 @@
   <sub><em>manuscript in preparation</em></sub>
 </br>
 
+## Open to 🤝🏻
+- **PhD/MSc (Fall 2026)** — Bioinformatics / Computational Biology / Computational Oncology (single-cell, GRNs, trajectory)
+- **Collabs:** single-cell & GRNs • docking/MD (Amber/GROMACS) • containerized, reproducible pipelines
+
+ </br>
 
 <sub>Last updated: 2025‑10‑01</sub>
