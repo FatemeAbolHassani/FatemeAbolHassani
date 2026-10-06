@@ -1,80 +1,100 @@
-# Hi, I'm **Fateme Abolhassani**
-<img align="right" alt="typing animation" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" height="200">
+# Hi, I'm **Fateme Mirzaabolhassani** 👋
 
-**Computational biologist**  
-🧫 Single-cell genomics • 🕸️ Gene regulatory networks • 🧭 Trajectory analysis </br>
-• ♻️ Reproducible pipelines • 🧬💊 Molecular dynamics
+**Computational Cancer Biologist**
 
-</br>
+I study **tumor heterogeneity and cell-state transitions** using single-cell transcriptomics, trajectory inference, gene regulatory networks, and cancer genomics.
 
-<p>
- <a href="mailto:fateme.abolhassani91@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" style="margin-right:10px;"/>
-</a>
-  <a href="https://www.linkedin.com/in/fateme-abolhassani-59b557208/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" style="margin-right:10px;"/>
-  </a>
-</p>
+🧫 **Single-cell transcriptomics** • 🧭 **Cell-state transitions** • 🕸️ **Gene regulatory networks** • 🧬 **Cancer genomics**
 
-</br>
-</br>
-</br>
+\<p>
+&#x20; \<a href="mailto\:fateme.abolhassani91\@gmail.com">
+&#x20;   \<img alt="Email" src="[https://img.shields.io/badge/Email-Contact_Me-2b2b2b?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-2b2b2b?style=flat-square\&logo=gmail\&logoColor=white)">
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/fateme-abolhassani-59b557208/](https://www.linkedin.com/in/fateme-abolhassani-59b557208/)">
+&#x20;   \<img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Fateme_Abolhassani-2b2b2b?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Fateme_Abolhassani-2b2b2b?style=flat-square\&logo=linkedin\&logoColor=white)">
+&#x20; \</a>
+&#x20; \<a href="[https://fatemeabolhassani.github.io/Portfolio-Website/](https://fatemeabolhassani.github.io/Portfolio-Website/)">
+&#x20;   \<img alt="Portfolio" src="[https://img.shields.io/badge/Portfolio-Research\_&\_Projects-2b2b2b?style=flat-square](https://img.shields.io/badge/Portfolio-Research_&_Projects-2b2b2b?style=flat-square)">
+&#x20; \</a>
+\</p>
 
-# About ME 💬 
-### - Code, cells & color palettes: data to discovery, canvas to color. 
+---
 
-### - Learning :
-- ✨ MOFA+ for multi-omics factor discovery
-- ✨ Best practices for Amber/GROMACS analysis
+## 🔬 Selected Research
 
-### - Hobbies : 
-- 🎨 Art & watercolor
-- 🏋️‍♀️ Gym
-- 🎭 Theatre
+### 🧫 Thyroid Cancer — Single-Cell Transcriptomics
 
-</br>
+Studying **thyroid cancer dedifferentiation from Normal → PTC → ATC** using trajectory inference, gene-expression dynamics, gene regulatory networks, and CNV-aware interpretation to identify candidate regulators of progression.
 
-## Languages & Tools 🧪🛠
+\<sub>\<em>Manuscript in preparation · experimental validation ongoing\</em>\</sub>
 
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,r,c,cpp,bash,linux,docker,git,github,anaconda,qt,vscode,latex,sklearn&theme=light)](https://skillicons.dev)
+### 🧠 Glioblastoma — Tumor Evolution
+
+Integrating **single-cell expression trajectories with mutation-derived phylogenetic structure** to prioritize candidate driver genes and investigate tumor progression.
+
+\<sub>\<em>M.Sc. thesis · ongoing research extension\</em>\</sub>
+
+\<a href="[https://github.com/sobhanAhmadian/single_cell_ordering](https://github.com/sobhanAhmadian/single_cell_ordering)">
+&#x20; \<img alt="GitHub repository" src="[https://img.shields.io/badge/Repo-Glioblastoma-2b2b2b?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/Repo-Glioblastoma-2b2b2b?style=flat-square\&logo=github\&logoColor=white)">
+\</a>
+
+### 🧬💊 Doxorubicin–DNA — Molecular Dynamics
+
+Developing docking and molecular-dynamics workflows to investigate **doxorubicin–DNA interactions** and the stability of candidate binding configurations.
+
+\<a href="[https://github.com/ilyaravand/Doxorubicin-DNA](https://github.com/ilyaravand/Doxorubicin-DNA)">
+&#x20; \<img alt="GitHub repository" src="[https://img.shields.io/badge/Repo-Doxorubicin–DNA-2b2b2b?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/Repo-Doxorubicin–DNA-2b2b2b?style=flat-square\&logo=github\&logoColor=white)">
+\</a>
+
+---
+
+## 🧪 Technical Stack
+
+**Programming & analysis**
 
 
-<!-- Bioinformatics / MD tools (no official skillicons) -->
-<p>
-  <img alt="Seurat"        src="https://img.shields.io/badge/Seurat-6c757d?style=flat-square&logo=R&logoColor=white">
-  <img alt="Monocle3"      src="https://img.shields.io/badge/Monocle3-6c757d?style=flat-square&logo=R&logoColor=white">
-  <img alt="Scanpy"        src="https://img.shields.io/badge/Scanpy-6c757d?style=flat-square&logo=python&logoColor=white">
-  <img alt="pySCENIC"      src="https://img.shields.io/badge/pySCENIC-6c757d?style=flat-square&logo=python&logoColor=white">
-  <img alt="CellOracle"    src="https://img.shields.io/badge/CellOracle-6c757d?style=flat-square&logo=python&logoColor=white">
-  <img alt="CopyKAT"       src="https://img.shields.io/badge/CopyKAT-6c757d?style=flat-square">
-  <img alt="InferCNV"      src="https://img.shields.io/badge/InferCNV-6c757d?style=flat-square">
-  <img alt="Cytoscape"     src="https://img.shields.io/badge/Cytoscape-6c757d?style=flat-square">
-  <img alt="GROMACS"       src="https://img.shields.io/badge/GROMACS-6c757d?style=flat-square">
-  <img alt="Amber"         src="https://img.shields.io/badge/Amber-6c757d?style=flat-square">
-  <img alt="AutoDock Vina" src="https://img.shields.io/badge/AutoDock%20Vina-6c757d?style=flat-square">
-  <img alt="PyMOL"         src="https://img.shields.io/badge/PyMOL-6c757d?style=flat-square">
-</p>
- </br>
- 
-## Current focus 🔭
-- 🧬💊 **Doxorubicin–DNA** — docking + MD workflow and analysis.  
-  <sub><a href="https://github.com/ilyaravand/Doxorubicin-DNA">
-  <img alt="GitHub repo" src="https://img.shields.io/badge/Repo-Doxorubicin—DNA-2b2b2b?style=flat-square&logo=github&logoColor=white">
-</a></sub>
-  
-- 🧫 **Thyroid single-cell** — mapping Normal → PTC → ATC with pseudotime + GRNs and CNV context.  
-  <sub><em>in progress · under experimental validation</em></sub>
 
-- 🧠 **Glioblastoma** — driver discovery by coupling expression with mutation across pseudotime.  
-  <sub><em>manuscript in preparation</em></sub>
-</br>
+**Single-cell & bioinformatics**
 
-## Open to 🤝🏻
-- **PhD/MSc (Fall 2026)** — Bioinformatics / Computational Biology / Computational Oncology (single-cell, GRNs, trajectory)
-- **Collabs:** single-cell & GRNs • docking/MD (Amber/GROMACS) • containerized, reproducible pipelines
+\<p>
+&#x20; \<img alt="Seurat" src="[https://img.shields.io/badge/Seurat-6c757d?style=flat-square&logo=R&logoColor=white](https://img.shields.io/badge/Seurat-6c757d?style=flat-square\&logo=R\&logoColor=white)">
+&#x20; \<img alt="Monocle3" src="[https://img.shields.io/badge/Monocle3-6c757d?style=flat-square&logo=R&logoColor=white](https://img.shields.io/badge/Monocle3-6c757d?style=flat-square\&logo=R\&logoColor=white)">
+&#x20; \<img alt="Harmony" src="[https://img.shields.io/badge/Harmony-6c757d?style=flat-square](https://img.shields.io/badge/Harmony-6c757d?style=flat-square)">
+&#x20; \<img alt="SoupX" src="[https://img.shields.io/badge/SoupX-6c757d?style=flat-square&logo=R&logoColor=white](https://img.shields.io/badge/SoupX-6c757d?style=flat-square\&logo=R\&logoColor=white)">
+&#x20; \<img alt="tradeSeq" src="[https://img.shields.io/badge/tradeSeq-6c757d?style=flat-square&logo=R&logoColor=white](https://img.shields.io/badge/tradeSeq-6c757d?style=flat-square\&logo=R\&logoColor=white)">
+&#x20; \<img alt="pySCENIC" src="[https://img.shields.io/badge/pySCENIC-6c757d?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/pySCENIC-6c757d?style=flat-square\&logo=python\&logoColor=white)">
+&#x20; \<img alt="CellOracle" src="[https://img.shields.io/badge/CellOracle-6c757d?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/CellOracle-6c757d?style=flat-square\&logo=python\&logoColor=white)">
+&#x20; \<img alt="CopyKAT" src="[https://img.shields.io/badge/CopyKAT-6c757d?style=flat-square](https://img.shields.io/badge/CopyKAT-6c757d?style=flat-square)">
+&#x20; \<img alt="InferCNV" src="[https://img.shields.io/badge/InferCNV-6c757d?style=flat-square](https://img.shields.io/badge/InferCNV-6c757d?style=flat-square)">
+&#x20; \<img alt="SCPA" src="[https://img.shields.io/badge/SCPA-6c757d?style=flat-square](https://img.shields.io/badge/SCPA-6c757d?style=flat-square)">
+&#x20; \<img alt="Cytoscape" src="[https://img.shields.io/badge/Cytoscape-6c757d?style=flat-square](https://img.shields.io/badge/Cytoscape-6c757d?style=flat-square)">
+\</p>
 
- </br>
+**Molecular modelling**
 
-<sub>Last updated: 2025‑10‑01</sub>
+\<p>
+&#x20; \<img alt="GROMACS" src="[https://img.shields.io/badge/GROMACS-6c757d?style=flat-square](https://img.shields.io/badge/GROMACS-6c757d?style=flat-square)">
+&#x20; \<img alt="Amber" src="[https://img.shields.io/badge/Amber-6c757d?style=flat-square](https://img.shields.io/badge/Amber-6c757d?style=flat-square)">
+&#x20; \<img alt="AutoDock Vina" src="[https://img.shields.io/badge/AutoDock%20Vina-6c757d?style=flat-square](https://img.shields.io/badge/AutoDock%20Vina-6c757d?style=flat-square)">
+&#x20; \<img alt="PyMOL" src="[https://img.shields.io/badge/PyMOL-6c757d?style=flat-square](https://img.shields.io/badge/PyMOL-6c757d?style=flat-square)">
+\</p>
+
+**Reproducibility:** Docker • conda • renv • Git/GitHub • reproducible pipeline development
+
+---
+
+## 🤝 Open to
+
+**PhD opportunities** in computational cancer biology, single-cell and spatial omics, cancer genomics, tumor evolution, and regulatory modelling.
+
+I am also interested in research collaborations involving **single-cell analysis, gene regulatory networks, cancer genomics, and reproducible computational pipelines**.
+
+---
+
+## 🎨 Beyond Research
+
+Watercolor & art • 🧘‍♀️ Yoga • 🎭 Theatre
+
+---
+
+\<sub>Last updated: October 2026\</sub>
